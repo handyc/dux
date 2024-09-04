@@ -22,3 +22,8 @@ duck game
 https://github.com/TotallyNotRobots/CloudBot
 
 https://github.com/TotallyNotRobots/CloudBot/blob/main/plugins/duckhunt.py
+
+
+further reading:
+
+https://en.wikipedia.org/wiki/Dux
