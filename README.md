@@ -20,4 +20,4 @@ duck game
 
 
 https://github.com/TotallyNotRobots/CloudBot
-
+https://github.com/TotallyNotRobots/CloudBot/blob/main/plugins/duckhunt.py
