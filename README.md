@@ -10,17 +10,17 @@ duck game
                                        
 `` [19:48:18]  <@handyc> |FF|FF|FF|FF|FF|FF|FF|FF| ....... ``
 
-`` [19:48:18]  <@handyc> |FF|FF|FF|FF|FF|FF|FF|FF| ....... ``
+`` [19:48:18]  <@handyc> |FF|FF|FF|FF|FF|FF|00|00| ....... ``
 
 `` [19:48:18]  <@handyc> |FF|FF|FF|FF|FF|FF|FF|FF| ....... ``
 
 `` [19:48:18]  <@handyc> |FF|FF|FF|FF|FF|FF|FF|FF| ....... ``
 
-`` [19:48:18]  <@handyc> |FF|FF|FF|FF|FF|FF|FF|FF| ....... ``
+`` [19:48:18]  <@handyc> |FF|FF|00|FF|FF|FF|FF|FF| ....... ``
 
-`` [19:48:18]  <@handyc> |FF|FF|FF|FF|FF|FF|FF|FF| ....... ``
+`` [19:48:18]  <@handyc> |FF|FF|FF|FF|FF|FF|FF|00| ....... ``
 
-`` [19:48:18]  <@handyc> |FF|FF|FF|FF|FF|FF|FF|FF| ....... ``
+`` [19:48:18]  <@handyc> |FF|FF|FF|FF|00|FF|FF|FF| ....... ``
 
 `` [19:48:18]  <@handyc> |FF|FF|FF|FF|FF|FF|FF|FF| ....... ``
 
